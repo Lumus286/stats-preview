@@ -1,0 +1,32 @@
+:root {
+    --color-p0: #090B1A;
+    --color-p1: #1B1938;
+    --color-p2: #AA5CDB;
+    --color-n0: rgb(255, 255, 255);
+    --color-n1: rgba(255, 255, 255, 0.75);
+    --color-n2: rgba(255, 255, 255, 0.60);
+}
+
+.color-p0 {
+    color: var(--color-p0);
+}
+
+.color-p1 {
+    color: var(--color-p1);
+}
+
+.color-p2 {
+    color: var(--color-p2);
+}
+
+.color-n0 {
+    color: var(--color-n0);
+}
+
+.color-n1 {
+    color: var(--color-n1);
+}
+
+.color-n2 {
+    color: var(--color-n2);
+}
